@@ -1,0 +1,41 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.left-container {
+    width: 80%;
+    margin-top: 2em;
+}
+
+.table {
+    
+    width: 99%;
+    margin-top: 2em;
+   
+}
+
+#left-side{
+    background-color: rgb(250, 250, 250);
+}
+
+#right-side {
+    background-color: rgb(77, 150, 62);
+    
+}
+
+.form-check-input-radio {
+    margin-right: 1em;
+}
+.spacing {
+  margin-bottom: 0.4em;
+}
+
+.state-spacing {
+    margin-top: 1em;;
+}
+
+.btn {
+    display: block;
+    margin-top: 1em;
+}
